@@ -11,9 +11,9 @@ title                    : "Sajjad Foroughi"
 title_separator          : "-"
 name                     : &name "Sajjad Foroughi"
 description              : &description "personal description"
-url                      : "https://foroughisajjad.github.io"
+url                      : "https://sajjadforoughi.github.io"
 baseurl                  : "" 
-repository               : "foroughisajjad/foroughisajjad.github.io"
+repository               : "sajjadforoughi/sajjadforoughi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -90,7 +90,7 @@ author:
   researchgate     :  "https://www.researchgate.net/profile/Sajjad-Foroughi"
   linkedin         : "sajjad-foroughi-b9982859"
   orcid            : "https://orcid.org/0000-0002-8885-550X"
-  github           : "ForoughiSajjad"
+  github           : "sajjadforoughi"
   email            :
   uri              :
   bitbucket        :
